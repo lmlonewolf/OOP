@@ -1,0 +1,9 @@
+.vs
+*.slnx
+*.vcxproj
+*.filters
+*.user
+*.b
+out
+x64
+.clang-tidy
